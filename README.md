@@ -10,7 +10,7 @@ Soluciones de AdventJS/TS de [Midudev](https://github.com/midudev)
 AdventJS/TS Solutions by [Midudev](https://github.com/midudev)
 - [AdventJS](https://adventjs.dev/en)
 
-| Day | pts | done |
+| Day | Pts | Done |
 |-----|-----|------|
 | 1   | 130 | ✔    |
 | 2   |     |      |
