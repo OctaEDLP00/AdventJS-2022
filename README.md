@@ -1,14 +1,17 @@
 # AdventJS-2022 
 
-![](https://adventjs.dev/og.png)
-
 ## Spanish
 Soluciones de AdventJS/TS de [Midudev](https://github.com/midudev)
 - [AdventJS](https://adventjs.dev/es)
 
+![](https://adventjs.dev/og.png)
+
 ## English
 AdventJS/TS Solutions by [Midudev](https://github.com/midudev)
 - [AdventJS](https://adventjs.dev/en)
+
+![](https://adventjs.dev/og.png)
+
 
 | Day | Pts | Done |
 |-----|-----|------|
